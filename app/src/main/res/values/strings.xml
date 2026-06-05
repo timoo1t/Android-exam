@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Конвертер валют</string>
+
+    <string name="label_from">Из</string>
+    <string name="label_to">В</string>
+    <string name="hint_amount">Сумма</string>
+    <string name="refresh_rates">Обновить курсы</string>
+
+    <string name="status_updated">Обновлено: %1$s</string>
+    <string name="status_offline">Автономный режим • данные от %1$s</string>
+    <string name="status_no_data">Данные не загружены</string>
+
+    <string name="rates_updated">Курсы обновлены</string>
+    <string name="offline_using_cache_with_reason">Автономный режим: %1$s</string>
+    <string name="error_with_reason">Ошибка: %1$s</string>
+</resources>
